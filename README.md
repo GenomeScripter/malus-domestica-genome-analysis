@@ -48,16 +48,17 @@ cut -f1 apple.conditionB | sort -u > B
 cut -f1 apple.conditionC | sort -u > C
 cat A C > AC
 cat B C > BC
-
+```
 > Learning Objectives
-```bash
+
 🧠 Learning Objectives
 Practice Unix command-line operations for biological data processing
 
 Understand gene structures, variants, and chromosomal organization
 
 Perform RNA-seq condition comparisons using text-based file manipulations
-
+```
 > 📜 License
 ```bash
 This project is intended for educational use only.
+```
