@@ -56,4 +56,3 @@ Practice Unix command-line operations for biological data processing
 Understand gene structures, variants, and chromosomal organization
 
 Perform RNA-seq condition comparisons using text-based file manipulations
-```
